@@ -2,7 +2,7 @@
   "name": "es6",
   "version": "1.0.0",
   "description": "",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "scripts": {
     "gulp": "gulp watch"
   },
@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "babel": "^5.4.7",
+    "browserify": "^10.2.3",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.1.0"
   }
